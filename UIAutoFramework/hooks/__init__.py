@@ -1,0 +1,1 @@
+"""Hooks module - pytest and allure integrations"""
